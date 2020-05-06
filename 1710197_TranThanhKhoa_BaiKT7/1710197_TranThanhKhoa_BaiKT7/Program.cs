@@ -20,7 +20,7 @@ namespace _1710197_TranThanhKhoa_BaiKT7
     {
         static void Main(string[] args)
         {
-            /*LopHoc a = new LopHoc();
+            LopHoc a = new LopHoc();
             a.NhapDS();
             a.Xuat();
             LopHoc kq = new LopHoc();
@@ -42,7 +42,7 @@ namespace _1710197_TranThanhKhoa_BaiKT7
             ma = Console.ReadLine();
             kq = a.TimTheoMaSo(ma);
             kq.Xuat();
-            */
+            
             LopHoc b = new LopHoc();
             Console.WriteLine("========================================= DANH SACH SINH VIEN DOC TU FILE =========================================");
             b.Read(@"C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\DuLieu.txt");
