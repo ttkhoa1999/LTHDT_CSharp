@@ -4,3 +4,9 @@ C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_
 C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\obj\Debug\1710197_TranThanhKhoa_BaiKT7.csprojResolveAssemblyReference.cache
 C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\obj\Debug\1710197_TranThanhKhoa_BaiKT7.exe
 C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\obj\Debug\1710197_TranThanhKhoa_BaiKT7.pdb
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\bin\Debug\1710197_TranThanhKhoa_BaiKT7.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\obj\Debug\1710197_TranThanhKhoa_BaiKT7.exe
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\obj\Debug\1710197_TranThanhKhoa_BaiKT7.pdb
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\bin\Debug\1710197_TranThanhKhoa_BaiKT7.exe
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\bin\Debug\1710197_TranThanhKhoa_BaiKT7.pdb
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_BaiKT7\1710197_TranThanhKhoa_BaiKT7\obj\Debug\1710197_TranThanhKhoa_BaiKT7.csprojResolveAssemblyReference.cache
