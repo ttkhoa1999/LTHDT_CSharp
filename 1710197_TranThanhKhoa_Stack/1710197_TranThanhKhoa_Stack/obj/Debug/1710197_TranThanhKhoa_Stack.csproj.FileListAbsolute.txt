@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Stack\1710197_TranThanhKhoa_Stack\bin\Debug\1710197_TranThanhKhoa_Stack.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Stack\1710197_TranThanhKhoa_Stack\bin\Debug\1710197_TranThanhKhoa_Stack.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Stack\1710197_TranThanhKhoa_Stack\bin\Debug\1710197_TranThanhKhoa_Stack.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Stack\1710197_TranThanhKhoa_Stack\obj\Debug\1710197_TranThanhKhoa_Stack.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Stack\1710197_TranThanhKhoa_Stack\obj\Debug\1710197_TranThanhKhoa_Stack.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Stack\1710197_TranThanhKhoa_Stack\obj\Debug\1710197_TranThanhKhoa_Stack.pdb

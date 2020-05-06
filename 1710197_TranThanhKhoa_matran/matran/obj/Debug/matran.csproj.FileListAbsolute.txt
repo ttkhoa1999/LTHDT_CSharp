@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\C#\LAB\matran\matran\bin\Debug\matran.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\matran\matran\bin\Debug\matran.exe
+C:\Users\ASUS\Desktop\C#\LAB\matran\matran\bin\Debug\matran.pdb
+C:\Users\ASUS\Desktop\C#\LAB\matran\matran\obj\Debug\matran.exe
+C:\Users\ASUS\Desktop\C#\LAB\matran\matran\obj\Debug\matran.pdb
+C:\Users\ASUS\Desktop\C#\LAB\matran\matran\obj\Debug\matran.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_matran\matran\bin\Debug\matran.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_matran\matran\obj\Debug\matran.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_matran\matran\obj\Debug\matran.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_matran\matran\bin\Debug\matran.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_matran\matran\bin\Debug\matran.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_matran\matran\obj\Debug\matran.csprojResolveAssemblyReference.cache

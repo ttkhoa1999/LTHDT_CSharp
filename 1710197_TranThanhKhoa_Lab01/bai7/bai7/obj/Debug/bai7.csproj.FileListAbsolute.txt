@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai7\bai7\bin\Debug\bai7.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai7\bai7\bin\Debug\bai7.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai7\bai7\bin\Debug\bai7.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai7\bai7\obj\Debug\bai7.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai7\bai7\obj\Debug\bai7.pdb

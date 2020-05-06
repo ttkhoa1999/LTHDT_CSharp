@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_DaThuc\1710197_TranThanhKhoa_DaThuc\bin\Debug\1710197_TranThanhKhoa_DaThuc.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_DaThuc\1710197_TranThanhKhoa_DaThuc\bin\Debug\1710197_TranThanhKhoa_DaThuc.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_DaThuc\1710197_TranThanhKhoa_DaThuc\bin\Debug\1710197_TranThanhKhoa_DaThuc.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_DaThuc\1710197_TranThanhKhoa_DaThuc\obj\Debug\1710197_TranThanhKhoa_DaThuc.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_DaThuc\1710197_TranThanhKhoa_DaThuc\obj\Debug\1710197_TranThanhKhoa_DaThuc.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_DaThuc\1710197_TranThanhKhoa_DaThuc\obj\Debug\1710197_TranThanhKhoa_DaThuc.pdb

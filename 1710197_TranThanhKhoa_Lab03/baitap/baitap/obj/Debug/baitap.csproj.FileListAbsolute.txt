@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab03\baitap\baitap\bin\Debug\baitap.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab03\baitap\baitap\bin\Debug\baitap.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab03\baitap\baitap\bin\Debug\baitap.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab03\baitap\baitap\obj\Debug\baitap.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab03\baitap\baitap\obj\Debug\baitap.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab03\baitap\baitap\obj\Debug\baitap.pdb

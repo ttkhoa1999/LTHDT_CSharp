@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai5\bin\Debug\bai5.exe.config
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai5\bin\Debug\bai5.exe
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai5\bin\Debug\bai5.pdb
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai5\obj\Debug\bai5.exe
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai5\obj\Debug\bai5.pdb
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai5\obj\Debug\bai5.csprojResolveAssemblyReference.cache

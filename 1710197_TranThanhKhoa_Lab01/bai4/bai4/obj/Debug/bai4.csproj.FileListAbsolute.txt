@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai4\bai4\bin\Debug\bai4.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai4\bai4\bin\Debug\bai4.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai4\bai4\bin\Debug\bai4.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai4\bai4\obj\Debug\bai4.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai4\bai4\obj\Debug\bai4.pdb

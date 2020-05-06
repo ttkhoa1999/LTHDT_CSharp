@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai4\bin\Debug\bai4.exe.config
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai4\bin\Debug\bai4.exe
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai4\bin\Debug\bai4.pdb
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai4\obj\Debug\bai4.exe
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\bai4\obj\Debug\bai4.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab01\bai4\bin\Debug\bai4.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab01\bai4\obj\Debug\bai4.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab01\bai4\obj\Debug\bai4.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab01\bai4\bin\Debug\bai4.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab01\bai4\bin\Debug\bai4.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab01\bai4\obj\Debug\bai4.csprojResolveAssemblyReference.cache

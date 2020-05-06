@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai6\bai6\bin\Debug\bai6.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai6\bai6\bin\Debug\bai6.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai6\bai6\bin\Debug\bai6.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai6\bai6\obj\Debug\bai6.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai6\bai6\obj\Debug\bai6.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai6\bai6\obj\Debug\bai6.pdb

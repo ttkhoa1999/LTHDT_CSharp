@@ -1,0 +1,5 @@
+1710197	Tran Thanh	Khoa	Sinh Vien	CTK41
+1710135	Do Minh	Chinh	Sinh Vien	CTK41
+1710186	Hua Dinh	Doanh	Sinh Vien	CTK41
+1810134	Pham Thanh	Khoa	Sinh Vien	CTK42
+1610852	Do The	Thanh	Sinh Vien	CTK40

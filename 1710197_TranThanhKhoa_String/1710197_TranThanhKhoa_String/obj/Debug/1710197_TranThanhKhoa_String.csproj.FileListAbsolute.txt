@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_String\1710197_TranThanhKhoa_String\bin\Debug\1710197_TranThanhKhoa_String.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_String\1710197_TranThanhKhoa_String\bin\Debug\1710197_TranThanhKhoa_String.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_String\1710197_TranThanhKhoa_String\bin\Debug\1710197_TranThanhKhoa_String.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_String\1710197_TranThanhKhoa_String\obj\Debug\1710197_TranThanhKhoa_String.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_String\1710197_TranThanhKhoa_String\obj\Debug\1710197_TranThanhKhoa_String.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_String\1710197_TranThanhKhoa_String\obj\Debug\1710197_TranThanhKhoa_String.pdb

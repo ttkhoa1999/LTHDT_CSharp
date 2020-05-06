@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_SQ\1710197_TranThanhKhoa_SQ\bin\Debug\1710197_TranThanhKhoa_SQ.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_SQ\1710197_TranThanhKhoa_SQ\bin\Debug\1710197_TranThanhKhoa_SQ.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_SQ\1710197_TranThanhKhoa_SQ\bin\Debug\1710197_TranThanhKhoa_SQ.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_SQ\1710197_TranThanhKhoa_SQ\obj\Debug\1710197_TranThanhKhoa_SQ.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_SQ\1710197_TranThanhKhoa_SQ\obj\Debug\1710197_TranThanhKhoa_SQ.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_SQ\1710197_TranThanhKhoa_SQ\obj\Debug\1710197_TranThanhKhoa_SQ.pdb

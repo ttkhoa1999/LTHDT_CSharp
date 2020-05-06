@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai5\bai5\bin\Debug\bai5.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai5\bai5\bin\Debug\bai5.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai5\bai5\bin\Debug\bai5.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai5\bai5\obj\Debug\bai5.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab02\bai5\bai5\obj\Debug\bai5.pdb

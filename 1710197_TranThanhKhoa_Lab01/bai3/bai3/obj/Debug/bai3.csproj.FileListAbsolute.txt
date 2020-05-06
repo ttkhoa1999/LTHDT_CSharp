@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai3\bai3\bin\Debug\bai3.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai3\bai3\bin\Debug\bai3.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai3\bai3\bin\Debug\bai3.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai3\bai3\obj\Debug\bai3.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_Lab1\bai3\bai3\obj\Debug\bai3.pdb

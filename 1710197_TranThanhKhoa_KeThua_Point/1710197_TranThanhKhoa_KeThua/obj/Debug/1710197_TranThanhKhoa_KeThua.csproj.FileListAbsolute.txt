@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_KeThua\1710197_TranThanhKhoa_KeThua\bin\Debug\1710197_TranThanhKhoa_KeThua.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_KeThua\1710197_TranThanhKhoa_KeThua\bin\Debug\1710197_TranThanhKhoa_KeThua.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_KeThua\1710197_TranThanhKhoa_KeThua\bin\Debug\1710197_TranThanhKhoa_KeThua.pdb
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_KeThua\1710197_TranThanhKhoa_KeThua\obj\Debug\1710197_TranThanhKhoa_KeThua.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_KeThua\1710197_TranThanhKhoa_KeThua\obj\Debug\1710197_TranThanhKhoa_KeThua.exe
+C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_KeThua\1710197_TranThanhKhoa_KeThua\obj\Debug\1710197_TranThanhKhoa_KeThua.pdb

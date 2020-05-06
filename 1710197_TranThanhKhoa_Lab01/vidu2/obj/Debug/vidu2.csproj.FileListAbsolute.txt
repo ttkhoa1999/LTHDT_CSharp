@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\vidu2\bin\Debug\vidu2.exe.config
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\vidu2\bin\Debug\vidu2.exe
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\vidu2\bin\Debug\vidu2.pdb
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\vidu2\obj\Debug\vidu2.exe
+C:\Users\ASUS\Desktop\C#\1710197_TranThanhKhoa_Lab01\vidu2\obj\Debug\vidu2.pdb
