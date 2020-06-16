@@ -45,26 +45,17 @@ namespace _1710197_TranThanhKhoa_QuanLySinhVien
         }
         public string XuatTen()
         {
-            return tenSV;
+            return TenSV;
         }
         public string XuatHoLot()
         {
-            return this.hoLot;
+            return HoLot;
         }
         public string XuatMaSoSV()
         {
-            return maSV;
+            return MaSV;
         }
-        public void Nhap()
-        {
-            Console.Write("Nhap MSSV: ");
-            maSV = Console.ReadLine();
-            Console.Write("Nhap Ho Lot: ");
-            hoLot = Console.ReadLine();
-            Console.Write("Nhap Ten: ");
-            tenSV = Console.ReadLine();
-            
-        }
+       
         public void Xuat()
         {
             Console.WriteLine("MSSV: {0} \t\t Ho Lot: {1} \t\t Ten: {2} ", maSV, hoLot, tenSV);

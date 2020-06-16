@@ -4,3 +4,9 @@ C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranTh
 C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\obj\Debug\1710197_TranThanhKhoa_QuanLySinhVien.csprojResolveAssemblyReference.cache
 C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\obj\Debug\1710197_TranThanhKhoa_QuanLySinhVien.exe
 C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\obj\Debug\1710197_TranThanhKhoa_QuanLySinhVien.pdb
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\bin\Debug\1710197_TranThanhKhoa_QuanLySinhVien.exe.config
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\obj\Debug\1710197_TranThanhKhoa_QuanLySinhVien.exe
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\obj\Debug\1710197_TranThanhKhoa_QuanLySinhVien.pdb
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\bin\Debug\1710197_TranThanhKhoa_QuanLySinhVien.exe
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\bin\Debug\1710197_TranThanhKhoa_QuanLySinhVien.pdb
+C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\obj\Debug\1710197_TranThanhKhoa_QuanLySinhVien.csprojResolveAssemblyReference.cache

@@ -52,9 +52,9 @@ namespace _1710197_TranThanhKhoa_QuanLySinhVien
             a.Xuat();
             QuanLyLopHoc b = new QuanLyLopHoc();
             Console.WriteLine("================================= DANH SACH SINH VIEN DOC TU FILE =================================");
-            b.Read(@"C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\DuLieu.txt");
+            b.Read(@"C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\DuLieu.txt");
             b.Xuat();
-            b.Write(@"C:\Users\ASUS\Desktop\C#\LAB\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\DuLieuSaoChep.txt");
+            b.Write(@"C:\Users\ASUS\Desktop\C#\LAB\LTHDT_CSharp\1710197_TranThanhKhoa_QuanLySinhVien\1710197_TranThanhKhoa_QuanLySinhVien\DuLieuSaoChep.txt");
             Console.WriteLine("Ma Hoa thong tin!");
             b.MaHoa();
             b.Xuat();
