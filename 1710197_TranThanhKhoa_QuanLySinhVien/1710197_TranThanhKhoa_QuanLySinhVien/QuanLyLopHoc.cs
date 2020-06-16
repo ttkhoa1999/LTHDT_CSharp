@@ -133,7 +133,7 @@ namespace _1710197_TranThanhKhoa_QuanLySinhVien
                 if (danhsach[i].MaSV == mssv)
                     break;
             }
-            for (int j = i; j < siSo - 1; j++)
+            for (int j = i; j < siSo; j++)
             {
                 danhsach[j] = danhsach[j + 1];
                 siSo -= 1;
